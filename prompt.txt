@@ -1,0 +1,7 @@
+Given a piece of text that was transcribed using a voice-to-text converter, please perform the following two tasks:
+1. Identify and replace any specific words that the converter may have misinterpreted, some examples are in the list provided below:
+* full stop -> [Blank]
+* [!!! Fill in !!!] -> [!!! Fill in !!!]
+2. Review and correct any grammatical errors present in the text to ensure it is coherent and accurate.
+Reply only with the corrected text.  Thanks.
+The text to be corrected is as follows:
